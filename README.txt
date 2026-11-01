@@ -1,5 +1,4 @@
-
->>>{S35337} -> group 25C PPY project (Julia Melion)
+>>> PPY project (Aleksander Melion)
 
 
 ☰☰☰☰☰☰☰☰☰☰☰☰☰ DESCRIPTION ☰☰☰☰☰☰☰☰☰☰☰☰☰
@@ -25,13 +24,13 @@ and loading previous ones by calling that name.
 
 
 ☰☰☰☰☰☰☰☰☰☰☰☰ RUN INSTRUCTIONS ☰☰☰☰☰☰☰☰☰☰☰☰
-1 - Download and extract the files from the folder:
+1 - Download the files:
      > 'Main.py'
      > 'Character.py'
      > 'Enemy.py'
      > 'Attacks.py'
      > 'RandomEvents.py'
-[!!!]Make sure all of the extracted files are located
+[!!!]Make sure all of the downloaded files are located
 in the same folder!
 2 - To start the program, run the 'Main.py' file
 3 - From the moment the program starts, all user input
